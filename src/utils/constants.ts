@@ -1,0 +1,1 @@
+export const API_BASE_URL = 'http://localhost:8001' // this can also be brought in from .nv but keeping here for now
